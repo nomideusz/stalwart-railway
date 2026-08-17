@@ -1,6 +1,6 @@
 # Deploy and Host Stalwart on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/stalwart?utm_medium=integration&utm_source=button&utm_campaign=stalwart)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/stalwart-1?utm_medium=integration&utm_source=button&utm_campaign=stalwart-1)
 
 [Stalwart](https://stalw.art/) is an all-in-one mail and collaboration server written in Rust — SMTP, IMAP, POP3, JMAP, CalDAV, CardDAV, and a full web admin in a single binary, with built-in spam filtering, DKIM/SPF/DMARC/ARC, and encryption at rest.
 

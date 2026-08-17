@@ -1,8 +1,8 @@
 {
   "buckets": {},
   "services": {
-    "c4c7958c-da28-40c2-afbd-ec9b48ff30b0": {
-      "icon": "https://avatars.githubusercontent.com/u/95658274?s=200&v=4",
+    "ed2cb874-6f24-48fc-8699-4ce7ac2fef15": {
+      "icon": "https://raw.githubusercontent.com/stalwartlabs/stalwart/main/img/logo-red.svg",
       "name": "stalwart",
       "deploy": {
         "startCommand": null,
@@ -42,7 +42,7 @@
         }
       },
       "volumeMounts": {
-        "c4c7958c-da28-40c2-afbd-ec9b48ff30b0": {
+        "ed2cb874-6f24-48fc-8699-4ce7ac2fef15": {
           "mountPath": "/data"
         }
       }

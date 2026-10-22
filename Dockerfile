@@ -1,4 +1,4 @@
-FROM stalwartlabs/stalwart:v0.16.17
+FROM stalwartlabs/stalwart:v0.16.27
 
 # Runs as root so the root-owned Railway volume needs no ownership dance, and
 # so Stalwart can bind the privileged mail ports (25/465/993/...).

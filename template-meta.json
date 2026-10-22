@@ -3,5 +3,6 @@
   "name": "Stalwart",
   "description": "Mailbox server: JMAP, IMAP, CalDAV, CardDAV, and a web admin.",
   "category": "Other",
-  "image": "https://raw.githubusercontent.com/stalwartlabs/stalwart/main/img/logo-red.svg"
+  "image": "https://raw.githubusercontent.com/stalwartlabs/stalwart/main/img/logo-red.svg",
+  "published": true
 }
